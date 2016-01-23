@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- This program is open source code released under -->
+<!-- the terms of the GNU General Public License     -->
+<!-- as published by the Free Software Foundation.   -->
+<!-- Complies with AIML 1.01 Tag Set Specification -->
+<!-- as adopted by the ALICE A.I. Foundation.  -->
+<!-- Revision Biblent v1.01-->
+<!-- Convertion by - Gene Wells -->
+<!-- Last Modified  Aug 7 2005 -->
+
+
+<aiml>
+<category>
+	 <pattern>BIBLE FACTS</pattern>
+	 <template>
+	 <random>
+	 	 <li>Shortest verse: Jn 11:35: "Jesus wept"</li>
+
+	<li>Longest verse in the Bible: Esther 8:9</li>
+	<li>Longest chapter in the Bible: Ps 119</li>
+	<li>Shortest chapter in the Bible: Ps 117</li>
+	<li>Shortest book in the Bible: 3 John</li>
+	<li>Longest book in the Bible: Psalms</li>
+	<li>Most used word in the Bible: "the"</li>
+
+	<li>The longest sentence in the Bible (KJV) is the genealogy of Jesus found in (Lk 3:23-38) (467 words!). The 2nd longest is found in (Eph 1:3-14) (268 words). (I counted Smile)</li>
+
+	<li>The Bible was written over a period of 1500 years by approximately 40 different authors.</li>
+
+	<li>Nine out of every ten people own a Bible.</li>
+
+	<li>The complete Bible has been translated into over 500 languages (according to Wycliffe - 2014).</li>
+
+	<li>Have you ever taken the time to read your Bible cover to cover? Assuming your Bible is 1000 pages long (not counting study notes), and you read a page every 5 minutes, it should take you 84 hours or just under 3 and a half days to read it all. You have read many other books cover to cover, but have you read the most important book of all time?</li>
+
+	      
+
+	<li>Methuselah was the oldest man at 969 yrs old (Gen 5:27).</li>
+
+	<li>Six other people also lived to be over 900 yrs old: (Adam 930 yrs old: Gen 5:5)
+	(Seth 912 yrs old: Gen 5:8)(Enos [Enosh] 905 yrs old: Gen 5:11)
+	(Cainan [Kenan] 910 yrs old: Gen 5:14) (Jared 962 yrs old: Gen 5:20)
+	(Noah 950 yrs old: Gen 9:29)
+	** Note: After the flood, longevity of life greatly decreased.</li>
+
+	<li>Seven people committed suicide in the Bible: (Zimri: 1 Kin 16:18) (Judas: Mt 27:3-5)
+	(Abimelech: Judg 9:53-54)(Ahithophel: 2 Sam 17:23) (Samson: Judg 16:25-30)
+	(Saul: 1 Sam 31:4-5, 1 Chr 10:4-5) (Saul's armorbearer: 1 Sam 31:5, 1 Chr 10:5).</li>
+
+	<li>There are 10 places where people were raised from the dead in the Bible:
+	Elijah raised the widow's son (1 Kin 17:17-24).
+	Elisha raised the Shunammites son (2 Kin 4:18-37).
+	A dead man came to life when his body was set on the dead bones of Elisha (2 Kin 13:20-21).
+	Jesus raised a widow's son (Lk 7:11-15).
+	Jesus raised the daughter of Jarius (Lk 8:41-42,49-56).
+	Jesus raised Lazarus (Jn 11:1-46).
+	Jesus was resurrected (Mt 28)(Mk 16)(Lk 24)(Jn 20-21).
+	Many dead saints came out of their graves after Jesus' resurrection (Mt 27:51-53)
+	Peter raised Tabitha (Dorcas) (Acts 9:36-51).
+	Paul raised Eutychus (Acts 20:9-12).</li>
+
+	<li>The 10 commandments had writing on both sides (Ex 32:15).</li>
+
+	<li>Ehud was the 1st left handed man in the Bible (Judg 3:15).</li>
+
+	<li>Dogs are mentioned 41 times in the Bible, cats are never mentioned.</li>
+
+	<li>Ostriches are mentioned only twice in the Bible: (Job 39:13-18)(Lam 4:3). They are described as cruel and harsh towards their young, having no wisdom or understanding, but faster than a horse.</li>
+
+	<li>Jubal invented the harp and flute (Gen 4:21).</li> 
+
+	<li>Delilah did not cut Samson's hair (Judg 16:19).</li>
+	<li>Everyone spoke the same language until the incident at the Tower of Babel (Gen 11:1-9).</li>
+
+	<li>There was a lady named Noah (Josh 17:3).</li>
+
+	<li>Samson used the jawbone of an ass to kill 1000 men (Judg 15:15).</li>
+
+	<li>The only boat mentioned by name in the Bible is the Castor and Pollux (Acts 28:11).</li>
+
+	<li>Manasseh was the longest reigning king at 55 years (2 Kin 21:1).</li>
+
+	<li>Zimri was the shortest reigning king at 7 days (1 Kin 16:15).</li>
+
+	<li>Joash was the youngest king at 7 years old (2 Chr 24:1).</li>
+
+	<li>Genesis never says Adam and Eve ate an apple, only that they ate fruit.</li>
+
+	<li>The only place an apple tree is mentioned in the Bible is (Song 2:3).</li>
+
+	<li>Er was the 1st person God killed for being wicked (Gen 38:7).</li>
+
+	<li>Lamech was the first person recorded in the Bible to commit polygamy (Gen 4:19).</li>
+
+	<li>Noah's Ark was 450' long, 75' wide, and 45' high, and had 3 stories (Gen 6:15).</li>
+
+	<li>God shut the door of the Ark (Gen 7:16).</li>
+
+	<li>There were 4 creatures sent as part of the 10 plagues against Egypt: 
+		frogs, lice, flies, and locusts.</li>
+
+	<li>Goliath's armor weighed 125 pounds (1 Sam 17:5).</li>
+
+	<li>David kept Goliath's armor in his tent after defeating him (1 Sam 17:54).</li>
+
+	<li>Solomon had 700 wives and 300 concubines (1 Kin 11:3).</li>
+
+	<li>Stephen was the 1st Christian martyr (Acts 6:7-8:2).</li>
+
+	<li>James was the first apostle martyred (Acts 12:1-2).</li>
+
+	<li>Othniel was the 1st judge of Israel (Judg 3:9-10).</li>
+
+	<li>Green is the 1st color mentioned in the Bible (Gen 1:30).</li>
+
+	<li>Joshua captured 31 kings (Josh 12:9-24).</li>
+
+	<li>David is mentioned 1139 times in the Bible, second only to Jesus.</li>
+
+	<li>Sarah is the most mentioned woman (59 times), Rachel is 2nd (47 times).</li>
+
+	<li>Miriam is the 1st woman recorded singing in the Bible (Ex 15:21).</li>
+
+	<li>Gamaliel was Paul's teacher (Acts 22:3). He was also an important member of the Sanhedrin (Acts 5:34).</li>
+
+	<li>There are 7 Mary's in the New Testament.</li>
+
+	<li>There was a man with 6 fingers and 6 toes (2 Sam 21:20).</li>
+
+	<li>Two men never died in the Bible: Enoch (Gen 5:22-24) and Elijah (2 Kin 2:11).</li>
+
+	<li>The book of Job dates before Exodus.</li>
+
+	<li>God is not mentioned in the book of Esther.</li>
+
+	<li>The longest word in the Bible is Maher-shalal-hash-baz.</li>
+
+	<li>Every quote Jesus used against Satan was from the book of Deuteronomy.</li>
+
+	<li>Jesus (Mt 4:2)(Mk 1:13)(Lk 4:2), Moses (twice)(Ex 34:28)(Deut 9:9,18)(Deut 10:10), and Elijah (1 Kin 19:8) fasted for 40 days. (Moses also went without water.)</li>
+
+	<li>Word for word, Luke wrote more of the New Testament than Paul.</li>
+
+	<li>The books Paul wrote in the NT were named for the people they were written to.</li>
+
+	<li>Jesus never once told His disciples He loved them in the Bible. He showed them with His actions.</li>
+
+	<li>Bethlehem means "house of bread."</li>
+
+	<li>Amen means basically "so be it."</li>
+
+	<li>Hosanna means "save now."</li>
+
+	<li>Manna means "what is it."</li>
+
+	<li>When the king of Nineveh called the people to repent, even the animals were to fast and be covered in sackcloth (Jonah 3:7-8).</li>
+
+	<li>Job at one time had 7000 sheep, 3000 camels, 500 oxen, and 500 female donkeys (Job 1:3).</li>
+
+	<li>There are approximately 125 animals mentioned in the Bible.</li>
+
+	<li>Job said his wife thought he had bad breath (Job 19:17).</li>
+
+	<li>Solomon wrote 3000 proverbs and 1005 songs (1 Kin 4:32).</li>
+
+	<li>Silver was of little value in Solomon's day (1 Kin 10:21).</li>
+
+	<li>Egyptians despised shepherds (Gen 46:34).</li>
+
+	<li>Adam was 130 years old when Seth was born (Gen 5:3).</li>
+
+	<li>Jacob had 12 sons, but also had a daughter named Dinah (Gen 34:1).</li>
+
+	<li>The Levites could not serve in the Tabernacle until 25 years old and had to retire at age 50 (Num 8:24-25).</li>
+
+	<li>God Himself buried Moses and no one knows where (Deut 34:5-6).</li>
+
+	<li>Jerusalem at one time was called Jebus (Judg 19:10). It was also called Salem (Ps 76:2)(Gen 14:18)(Heb 7:1-2).</li>
+
+	<li>Og, the king of Bashan, had a bed made of iron that was 13' long and 6' wide (Deut 3:11).</li>
+
+	<li>Eglon was a very fat man (Judg 3:17).</li>
+
+	<li>During a severe famine in Samaria, a donkey's head was being sold for 80 pieces of silver and 16 oz of a dove's dung was being sold for 5 pieces of silver (ewwww) (2 Kin 6:25).</li>
+
+	<li>When Nehemiah saw that the men of Judah had married foreign wives, he rebuked them, beat some of them, and pulled out their hair (Neh 13:25).</li>
+
+	<li>There are 12 books of the Bible that start with J.</li>
+
+	<li>The disciples were called Christians for the 1st time at Antioch (Acts 11:26).</li>
+
+<li>	Jesus was about 30 when He began His ministry (Lk 3:23).</li>
+
+<li>	Jesus performed over 30 miracles in the Gospels.</li>
+
+<li>	The last place we see the Ark of the Covenant in the Bible is in (2 Chr 35:3) when God told the Levites to place it in the Temple that Solomon built.</li>
+
+<li>	There is nothing in the Bible stating men and women danced with one another.</li>
+
+<li>	The new Earth won't have any seas (Rev 21:1).</li>
+
+<li>	The law was given 430 years after God's covenant was established with Abraham (Gal 3:16-17).</li>
+
+ <li>The Sea of Galilee was also known as the Sea of Tiberias (Jn 21:1).</li>
+
+ <li>Joseph was the only person in Genesis to live less than 120 years. 
+ 	He died at 110 years old (Gen 50:22).</li>
+
+<li>Isaiah (Greek word Esaias) is quoted by name 21 times in the New Testament.</li>
+
+<li>There are 613 articles in the law.</li>
+
+<li>There is only one place in the Bible that shows Jesus sleeping; it is in the midst of a storm (Mt 8:23-27)(Mk 4:35-41)(Lk 8:22-25).</li>
+
+<li>Unlike today, people who died during Bible times were almost always buried the same day they died.</li>
+
+<li>Jesus used the term, "Verily I say unto you (or thee)" 77 times in the Gospels. (Each time in John an extra "verily" is added.) Nowhere else in the Bible is this term used.</li>
+
+	<li>The time period of the book of Genesis spans more time than all of the rest of the Bible combined.
+	</li>
+
+ <li>The walls surrounding Babylon were 87 ft thick and 387 ft high.</li>
+
+<li>	King Ahasuerus made a feast that went for 180 days (Est 1:3-4).</li>
+
+<li>	The only woman the Bible tells us to remember is Lot's wife (Lk 17:32).</li>
+
+<li>	Enoch was the first man to prophesy in the Bible (Jude 1:14).</li>
+
+<li>	Paul was guarded by 470 soldiers when He was taken to Governor Felix (Acts 23:23).</li>
+
+<li>	Speaking of Felix, He is one of only 3 people in the Bible who's name begins with an F: Felix, Fortunatus (1 Cor 16:17), and Festus (Acts 24-26).</li>
+
+<li>	A ball is mentioned only once in the Bible (Isa 22:18).</li>
+
+<li>	Joseph is the first man mentioned as shaving (Gen 41:14).</li>
+
+<li>	Cheese is mentioned 3 times in the Bible (1 Sam 17:18)(2 Sam 17:29)(Job 10:10).</li>
+
+<li>	There was a king named So (2 Kin 17:4), an altar named Ed (Josh 22:34), and a man named Hen (Zech 6:14).</li>
+
+<li>	Sarah is the only woman mentioned as laughing in the Bible (Gen 18:12-13).</li>
+
+<li>	Paul had a sister (Acts 23:16).</li>
+
+<li>	Boys didn't officially get their names until they were circumcised on the 8th day after being born.
+</li>
+
+<li>	Abraham was circumcised when he was 99 years old (Gen 17:24).</li>
+
+<li>	Can you find a place in the Bible where it says angels sing?</li>
+
+<li>	Abraham got remarried after Sarah died, to Keturah. He had 6 children with her (Gen 25:1-2).</li>
+
+<li>	There are approximately 34 false gods mentioned in the Bible.</li>
+
+<li>	Approximately 6 of the false gods were women: (Annammelech: 2 Kin 7:31), (Asherah: Judg 6:25,26,28,30), (Ashtoreth: 1 Kin 11:5,33), (Diana/Artemis: Acts 19:24,27-28,34-35), (Queen of Heaven/Ishtar: Jer 7:18, Jer 44:17-19,25), (Succoth Benoth: 2 Kin 17:30)</li>
+
+<li>	Shadrach, Meshach, and Abed-nego are the only people mentioned in the Bible as wearing hats (Dan 3:21).</li>
+
+	<li>Only those who breathed through their nostrils were killed in the flood (Gen 7:22).</li>
+
+<li>	Three of Benjamin's sons were named Muppim, Huppim, and Ard (Gen 46:21).</li>
+
+<li>	Jacob was buried with Leah and not Rachel when he died (Gen 49:29-33).</li>
+
+<li>	Embalming in early Bible times took 40 days (Gen 50:3).</li>
+
+<li>	Anything that walked on four paws was a forbidden food under the law (Lev 11:27).</li>
+
+<li>	The six "cities of refuge" were a part of the land given to the Levites (Num 35:6).</li>
+
+<li>	In the book of Deuteronomy, God was still taking care of the descendants of Esau (Deut 2:4-5).</li>
+
+	<li>The Israelites left Egypt in the evening at sunset (Deut 16:6).</li>
+
+	<li>There was a city called Adam (Josh 3:16).</li>
+
+	<li>God also dried up the Jordan River so His people could pass through (Josh 3:14-17).</li>
+
+	<li>God parted the Jordan River for both Elijah and Elisha (2 Kin 2:7-9,14).</li>
+
+	<li>God rained down large stones from Heaven on some of Israel's enemies (Josh 10:11).</li>
+
+	<li>Samson wanting to marry a Philistine girl (who was not of his own people) was the Lord's will (Judg 14:1-4).</li>
+
+	<li>The Gileadites tested people to see if they were their enemies the Ephraimites by making them say "Shibboleth." The Ephraimites couldn't pronounce it right, saying "Sibboleth," and when they mispronounced it, they were captured and killed (Judg 12:4-6).</li>
+
+	<li>Saul was so afraid when they tried to make him king, he hid in some luggage so they couldn't find him (1 Sam 10:21-22).</li>
+
+	<li>Saul gave David's wife Michal to a man named Palti (1 Sam 25:44). David later got her back (2 Sam 3:13-16).</li>
+
+	<li>The prophet Nathan gave Solomon the name "Jedidiah," meaning "beloved of the Lord" (2 Sam 12:25).
+	</li>
+
+	<li>Absalom made a monument to himself (2 Sam 18:18).</li>
+
+	<li>A man named Ben-hur was a deputy over Israel (1 Kin 4:7-8).</li>
+
+	<li>The pillars in front of the Temple had names: Jachin and Boaz (1 Kin 7:21)(2 Chr 3:17).</li>
+
+	<li>Samaria was named after a man called Shemer, and bought for two talents of silver (1 Kin 16:24).</li>
+
+	<li>King Ahab built an ivory house (1 Kin 22:39).</li>
+
+	<li>Elijah was a hairy man (2 Kin 1:8).</li>
+
+	<li>Jehu was a crazy chariot driver (2 Kin 9:20).</li>
+
+	<li>Elisha died from an illness (2 Kin 13:14).</li>
+
+	<li>David had a son named Daniel (1 Chr 3:1).</li>
+
+	<li>Joab became David's commander and chief because he killed the first person when David took over Jerusalem (1 Chr 11:6).</li>
+
+	<li>The Gadites had faces like lions (1 Chr 12:8).</li>
+
+	<li>Esther was also called Hadessah (Est 2:7).</li>
+
+	<li>Job had worms in his skin during his trial (Job 7:5).</li>
+
+	<li>Solomon had black, wavy hair (Song 5:11).</li>
+
+	<li>There were cities named Michmash (Isa 10:28), Hanes (Isa 30:4), and Sin (Ezek 30:15).</li>
+
+	<li>Kings Zedekiah and Ahab were burned to death (Jer 29:22).</li>
+
+	<li>Herod had a brother named Philip (Mk 6:17).</li>
+
+	<li>When Jesus was walking on water, He intended to pass by the disciples boat (Mk 6:48).</li>
+
+	<li>The prodigal son had spent part of his inheritance on prostitutes (Lk 15:30).</li>
+
+	<li>Andrew was a disciple of John The Baptist before becoming Jesus' disciple (Jn 1:35-37,40).</li>
+
+	<li>In the place where Jesus was crucified, there was a garden (Jn 19:41).</li>
+
+	<li>Paul spoke both Greek and Hebrew (Acts 21:37,40).</li>
+
+	<li>The Sadducees didn't believe in resurrection from the dead, angels, or spirits (Acts 23:8).</li>
+
+	<li>Paul was unskilled in speech (2 Cor 11:6).</li>
+
+	<li>Mark was a cousin of Barnabas (Col 4:10).</li>
+
+	<li>Elijah prayed, and it didn't rain on the Earth for three and a half years (Jas 5:17).</li>
+
+	<li>Jacob took the idols of everyone who was traveling with him and hid them under a terebinth tree (Gen 35:2-4).</li>
+
+	<li>God told the Israelites no animal of the sea should be eaten unless it had fins and scales (Lev 11:9).</li>
+
+	<li>There were 6 steps to Solomon's throne (1 Kin 10:19).</li>
+
+	<li>Goliath had a brother named Lahmi (1 Chr 20:5).</li>
+
+	<li>Who wrote the book of Deuteronomy? Did you say Moses? Well he wrote MOST of it, but not ALL of it. He could not have written the last chapter (34), because he was dead. Most believe Joshua finished it.
+	</li>
+
+	<li>Joshua also could not have written Joshua 24:29-33, because he had died.</li>
+
+	<li>Jesus called Himself the "Son of man" 79 times in the Gospels.</li>
+
+	<li>Jesus was born during the reign of Caesar Augustus (Lk 2:1).</li>
+
+	<li>Elephants are never mentioned in the Bible. However, ivory, which comes from elephants' tusks, is mentioned 13 times.</li>
+
+	<li>Psalm 111 is an example of an acrostic psalm. Each line begins with a different letter of the Hebrew alphabet from beginning to end (22 letters).
+	Other examples of acrostics can be found in Psalms 9,10,25,34,37,112,119,145.</li>
+
+	<li>Why does the Bible say that people were always "going up" to Jerusalem? Because Jerusalem sits upon a hill, and no matter what direction you approach from, you will always be going up to it.</li>
+
+	<li>Absalom cut his hair once a year, and when he did what was cut off weighed just about 5 pounds (2 Sam 14:26)!</li>
+
+	<li>Rachel was a shepherdess (Gen 29:9).</li>
+
+	<li>Even though Leah and Rachel were both married to Jacob, Leah had to buy a night with her husband from Rachel for some mandrakes her son had brought her (Gen 30:14-16).</li>
+
+	<li>The golden calf which Aaron made for the Israelites was made ONLY from earrings (Ex 32:2-4).</li>
+
+	<li>John The Baptist never performed any miracles (Jn 10:41).</li>
+
+	<li>Abraham had sons with some of his concubines too (Gen 25:6).</li>
+
+	<li>Only two people died by hanging in the Bible, and both were suicides (Ahithophel 2 Sam 17:23)(Judas Mt 27:5).</li>
+
+	<li>Four squads of soldiers (16 soldiers) were assigned to guard Peter in prison (Acts 12:4). He was also chained between two soldiers (Acts 12:6).</li>
+
+	 
+	<li>David's tomb was still visible in Jerusalem at the time of Pentecost (Acts 2:29).</li>
+
+
+
+
+
+	 </random>
+	</template>
+</category>
+ <category><pattern>TEACH ME </pattern><template><srai>BIBLE FACTS<star/></srai></template></category>
+
+	<category><pattern>BIBLE *</pattern><template><srai>BIBLE FACTS<star/></srai></template></category>
+	<category><pattern>SUPRISE ME</pattern><template><srai>BIBLE FACTS<star/></srai></template></category>
+	<category><pattern>TELL ME * ABOUT THE BIBLE</pattern><template><srai>BIBLE FACTS<star/></srai></template></category>
+	<category><pattern>RANDOM BIBLE FACTS</pattern><template><srai>BIBLE FACTS<star/></srai></template>
+      </category>
+
+
+
+
+
+
+
+
+
+
+</aiml>
